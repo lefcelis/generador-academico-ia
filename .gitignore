@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+historial.db
+.env
+temp.docx
+Documento.docx
+Documento.pdf
+
